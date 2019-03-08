@@ -1,4 +1,9 @@
 /*
+ * Diogo Burnay Rojas	A01334970
+ * Manuel Avalos Tovar	A01336176
+ * Dara Arriaga Ventura	A01334482
+ * Alan Cabello Almazán	A01334386
+ * 
  * Sergio Ruiz.
  *
  * TC3022. Computer Graphics Course.
